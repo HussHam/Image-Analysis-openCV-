@@ -1,4 +1,4 @@
-Programmed being developed to assist an autonomous drone in target recognition.
+Program being developed to assist an autonomous drone in target recognition.
 Programmed in Python using openCV
 Still very EARLY work in progress
 
