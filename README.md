@@ -1,5 +1,7 @@
 Object DLC program for use in AUVSI SUAS 2018
-Created by Hussein Hamdan finished 6/01/2018 reuploaded 11/16/2018
+Created by Hussein Hamdan 
+Finished 6/01/2018 
+Reuploaded 11/16/2018
 
 Sources used:
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5134437/
