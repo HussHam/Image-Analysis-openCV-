@@ -2,8 +2,10 @@ import cv2
 import numpy as np
 from PicFeed import PicFeed
 
+# Main method for testing the program, last tested with gopro footage from a test flight of my teams UAV
+
 test = PicFeed()
-cap = cv2.VideoCapture("E:/droneclub/NeuralIDAlpha/Input/test.mp4")
+cap = cv2.VideoCapture("E:/droneclub/ID/Input/test.mp4")
 (grab, frame) = cap.read()
 test.createPic(frame)
 
@@ -21,13 +23,14 @@ test.saveCropsCont("F:/droneclub/NeuralIDAlpha/Output/YCrCb")
 
 
 
-
+# How the code was being ran beforehand when using single images as test data
+# Not shown: the actual loading in and creation of test object with singular picture
 '''
 print("below ID")
-test.saveCropsCont("F:/droneclub/NeuralIDAlpha/Output/YCrCb")
+test.saveCropsCont("F:/droneclub/IDAlpha/Output/YCrCb")
 print("below cont")
-test.saveCropsMser("F:/droneclub/NeuralIDAlpha/Output/MSER")
+test.saveCropsMser("F:/droneclub/IDAlpha/Output/MSER")
 print("below mser")
-test.saveCropsEdge("F:/droneclub/NeuralIDAlpha/Output/Edged")
+test.saveCropsEdge("F:/droneclub/IDAlpha/Output/Edged")
 print("below edge")
 '''
