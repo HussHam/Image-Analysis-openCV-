@@ -11,7 +11,7 @@ The original goal was to find targets from a autonmous drone in AUVSI SUAS 2018.
 cardboard cutouts of different colors and shapes, and would be contained in pictures taken any where 
 from ~150ft to 400ft in the air. Most targets were assumed to be on grass and tarmac backgrounds.
 
-I have since transfered from my orginal school to University At Buffalo after being accepted into their Computer Science program.
+I have since transfered from my original school to University At Buffalo after being accepted into their Computer Science program.
 
-If you have questions or anything else you would like to contact me about feel free to reach out to me my email:
+If you have questions or anything else you would like to contact me about feel free to reach out to me at my email:
 husshamdan97@gmail.com
