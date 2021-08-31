@@ -22,5 +22,3 @@ Footage of the drone in question (less boring than code): https://www.youtube.co
 
 I have since transfered from my original school to University At Buffalo after being accepted into their Computer Science program.
 
-If you have questions or anything else you would like to contact me about feel free to reach out to me at my email:
-husshamdan97@gmail.com
